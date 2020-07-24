@@ -1,0 +1,4 @@
+# Packageに含めないファイル
+
+Packageに含めたくないEditor専用のファイル、コードに関してはUnityの場合は"Editor"のフォルダ内にいれておけば含まれない  
+コードはVisualStudioで開くとEditorとそれ以外は別で置かれている。  
